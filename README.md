@@ -1,0 +1,2 @@
+# NavigationInteractivePop
+更好的控制导航控制器侧滑返回手势的状态
