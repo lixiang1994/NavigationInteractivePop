@@ -12,7 +12,7 @@ s.author       = { "LEE" => "18611401994@163.com" }
 
 s.platform     = :ios, "9.0"
 
-s.source       = { :git => "git@github.com:lixiang1994/NavigationInteractivePop.git", :tag => s.version }
+s.source       = { :git => "https://github.com/lixiang1994/NavigationInteractivePop.git", :tag => s.version }
 
 s.source_files  = "Sources/**/*.swift"
 
